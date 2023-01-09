@@ -1,0 +1,288 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.body{
+
+    background-image: url('WEB.66.jpg');
+     background-repeat: no-repeat;
+   background-size: cover;  
+    position: relative; 
+    font-family: 'Baloo Bhai 2', cursive; 
+   height: 574px;
+  
+}
+ .bodywritten {
+  font-family: 'Baloo Bhai 2', cursive; 
+  color: #362b2b;
+width: 599px;
+  font-size: 50px; 
+position: relative;
+left: 599px;
+top: 200px;
+} 
+#ritul20{
+  font-size: 16px;
+  position: relative;
+  top: -9px;
+  left: -263px;
+  width: 931px;
+  color: rgb(229, 234, 239);  
+}
+
+#ritul21{
+  font-size: 16px;
+  position: relative;
+  top: -2px;
+    left: -78px;
+    color: rgb(235, 240, 245);  color:white;
+}
+
+#ritul22{
+  font-size: 16px;
+  position: relative;
+  top: 4px;
+  left: 49px;
+  width: 355px;
+  color: rgb(237, 243, 248);  /*color:white; */
+}
+
+.R h2{
+
+  color: rgb(245, 238, 238);
+  FONT-SIZE: 38PX;
+  margin: 0px;
+  padding: 8px;
+  font-family: 'Baloo Bhai 2', cursive;
+}
+.R ul {
+    display: flex;
+  
+    align-items:center ;
+    justify-content: center;
+    position: relative;
+    top: -58px;
+    
+}
+ .R ul li {
+    padding: 4px;
+    margin: 4px;
+    list-style: none;
+}
+  .R ul li a { color: rgb(213, 206, 206);
+    text-decoration: none;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif  ;
+font-size: 13px;
+font-weight: 700; }
+
+
+  
+  .R{
+
+    background-color: black;
+   
+    margin: 0px;
+    height: 70px;
+    padding: 1px;
+    
+
+  }
+  .ritul{
+    background-color: rgb(55, 53, 53);
+
+    
+    padding: 0px;
+    margin: 0px;
+    height: 41px;
+ 
+}
+  
+.formgroup input {
+ /* text-align: center; */
+    border-radius: 5px;
+    color: antiquewhite;
+    background-color: black;
+    border: 2px solid rgb(240, 221, 221);
+    width: 166px;
+    height: 15px;
+    position: relative;
+    left: 1312px;
+    top: -104px;
+    margin: 0px;
+    padding: 16px;
+    font-size: 12px;}
+
+.material-symbols-outlined{
+  
+  color: aliceblue;
+    position: relative;
+    left: 1452px;
+    top: -144px;
+    font-size: 34px;
+    font-weight: lighter;
+    cursor:pointer;
+}
+
+ .R ul li a:hover{ 
+   color: rgb(255, 255, 255);
+   text-decoration-line: underline;
+   
+}
+.p:hover{
+  position: relative;
+}
+.stuntphoto {
+      /* border: 2px solid red; */
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+    height: 523px;
+  
+    color: rgb(31, 29, 29);
+    font-size: 60px;
+    background-color: white;
+    align-content: center ;
+
+    font-weight: 600;
+}
+.st1 {
+  padding: 16px;
+  margin: 0px;
+}
+.st2{
+  position: relative;
+  top: 17px;
+}
+.st3 {
+  padding: 16px;
+  margin: 0px;
+}
+
+     #item img{ 
+      width: 485px;
+      
+    } 
+    
+   
+  
+    #item p {
+      font-size: 20px;
+    position: relative;
+    top: -270px;
+    color: aliceblue;
+    font-family: 'Baloo Bhai 2', cursive; 
+    align-items: center;
+    text-align: center;
+    }
+ 
+
+   
+.me{
+  color: rgb(11, 11, 11);
+  font-family: 'Baloo Bhai 2', cursive;
+  text-align: center;
+  font-size: 34px;
+}
+.purchase
+{      margin: 9px;
+  display: flex;
+  
+  text-align: center;
+  font-family: 'Baloo Bhai 2', cursive; 
+}
+#item1 img{
+  display: block;
+  width: 270px;
+  margin: 15px;
+  padding: 0px;
+}
+
+.aryan{
+  margin: 4px;
+  position: relative;
+  top: -33px;
+}
+
+/* lastt */
+
+.last{
+
+    background-color: black;
+  color: aliceblue;
+  
+    font-family: 'Baloo Bhai 2', cursive; 
+}
+.aman ul {
+  list-style: none;
+    position: relative;
+  left: 183px;
+  top: -18px;
+  width: 300px; 
+}
+
+
+
+ .aman a {
+  text-decoration: none;
+  color: rgb(107, 111, 113);
+ }
+ 
+
+
+ .sign1{
+  font-size: 15px;
+  position: relative;
+  left: 681px;
+  width: 500px;
+ }
+ 
+ .formgrp{
+display: block;
+height: 30px;
+width: 20px;
+ }
+
+ #sign{
+ font-size: 20px;
+ position: relative;
+    top: 10px;
+    color: rgb(181, 188, 195);
+  
+ }
+ 
+ .email{
+  width: 351px;
+  position: relative;
+  left: -13px;
+  margin: 12px;
+  height: 35px;
+ }
+  
+ .submit{
+  width: 100px;
+  height: 35px;
+  background-color: rgb(88, 86, 84);
+ } 
+ #services{
+  font-size: 20px;
+  position: relative;
+  top: 42px;
+  left: 183px;
+  width: 500px;
+  color: rgb(181, 188, 195);}
+   
+  .yo{
+    color: rgb(24, 24, 23);
+    position: relative;
+    left: 122px;
+    width: 1000px;
+  }
+  .end{
+    color: rgb(107, 107, 104);
+    position: relative;
+    left: 181px;
+    width: 600px;
+  }  
